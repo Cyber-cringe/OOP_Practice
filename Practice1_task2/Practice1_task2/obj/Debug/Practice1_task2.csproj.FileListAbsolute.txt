@@ -1,0 +1,16 @@
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\MainWindow.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\App.g.cs
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2_MarkupCompile.cache
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2_MarkupCompile.lref
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\bin\Debug\Practice1_task2.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\bin\Debug\Practice1_task2.exe
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\bin\Debug\Practice1_task2.pdb
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\MainWindow.baml
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.g.resources
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.exe
+C:\Users\artem\OneDrive\Рабочий стол\PZ1\Practice1_task2\Practice1_task2\obj\Debug\Practice1_task2.pdb
